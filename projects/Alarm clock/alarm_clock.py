@@ -6,7 +6,7 @@ import winsound
 from threading import *
 
 # Create Object
-root = Tk()
+root = Tk1()
 
 # Set geometry
 root.geometry("400x200")
